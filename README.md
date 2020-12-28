@@ -96,13 +96,13 @@ Two jumpers are for switching power and CAN sniffer modes.
 There is no other chip / boards in the OBD2 connector, just a break out connector.
 
 ## Whole Setup
-![Whole Setup](../main/images/whole.png?raw=true)
+![Whole Setup](../master/images/whole.png?raw=true)
 
 ## Board Front
-![Board Front](../main/images/board_front.jpg?raw=true)
+![Board Front](../master/images/board_front.jpg?raw=true)
 
 ## Board Back
-![Board Back](../main/images/board_back.jpg?raw=true)
+![Board Back](../master/images/board_back.jpg?raw=true)
 
 ## UI Speed Test
 [![](http://img.youtube.com/vi/PYe7n_EPdbE/0.jpg)](http://www.youtube.com/watch?v=PYe7n_EPdbE "UI Speed Test")
